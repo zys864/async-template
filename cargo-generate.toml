@@ -2,6 +2,6 @@
 cargo_generate_version = "0.15.0"
 
 [placeholders]
-# description = { type="string", prompt="Description for the crate?" }
+description = { type="string", prompt="Description for the crate?" }
 
 
